@@ -1,0 +1,182 @@
+,City,State,NO2,PM10,SO2,Cluster
+0,Chitoor,Andhra Pradesh,9.0,39.0,4.0,1
+1,Guntur,Andhra Pradesh,11.0,81.0,2.0,1
+2,Hydrabad,Andhra Pradesh,24.0,79.0,5.0,1
+3,Kothagudem,Andhra Pradesh,11.0,62.0,2.0,1
+4,Kurnool,Andhra Pradesh,9.0,85.0,4.0,1
+5,Nalgonda,Andhra Pradesh,22.999999999999996,85.0,5.0,1
+6,Nellore,Andhra Pradesh,12.0,65.0,2.0,1
+7,Patencheru,Andhra Pradesh,22.999999999999996,76.0,11.0,1
+8,Ramagundam,Andhra Pradesh,12.0,68.0,4.0,1
+9,Tirupati,Andhra Pradesh,9.0,37.0,4.0,1
+10,Vijaywada,Andhra Pradesh,14.0,93.0,6.0,1
+11,Warangal,Andhra Pradesh,10.0,52.0,4.0,1
+12,Vishakhapatnam,Andhra Pradesh,16.0,71.0,7.0,1
+13,Bongaigaon,Assam,15.0,58.0,6.0,1
+14,Daranga,Assam,14.0,58.0,5.0,1
+15,Dibrugarh,Assam,14.0,38.0,6.0,1
+16,Golaghat,Assam,15.0,73.0,6.0,1
+17,Guwahati,Assam,15.0,94.0,7.0,1
+18,Lakhimpur,Assam,15.0,76.0,6.0,1
+19,Nagaon,Assam,14.0,103.00000000000001,6.0,1
+20,Nalbari,Assam,16.0,68.0,7.0,1
+21,Sibsagar,Assam,14.0,59.0,6.0,1
+22,Silchar,Assam,16.0,81.0,6.0,1
+23,Tezpur,Assam,13.0,68.0,6.0,1
+24,Tinsukia,Assam,16.0,58.0,7.0,1
+25,Patna,Bihar,40.0,181.0,7.0,2
+26,Chandigarh,Chandigarh,16.0,92.0,2.0,1
+27,Bhillai,Chattisgarh,22.0,109.0,9.0,1
+28,Bilaspur,Chattisgarh,19.0,98.61149089102462,8.0,1
+29,Korba,Chattisgarh,21.0,104.00000000000001,13.0,1
+30,Raipur,Chattisgarh,42.99999999999999,289.0,15.000000000000002,2
+31,Silvassa,Dadra and Nagar Haveli,18.0,39.0,7.0,1
+32,Daman,Daman and Diu,18.0,35.0,7.0,1
+33,Delhi,Delhi,55.0,261.0,5.0,2
+34,Panaji,Goa,17.0,85.0,4.0,1
+35,Marmagao,Goa,18.0,59.0,32.0,1
+36,Vasco,Goa,19.0,61.0,6.0,1
+37,Curchorem,Goa,17.0,38.0,32.0,1
+38,Codli,Goa,26.999999999999996,90.0,10.0,1
+39,Bicholim,Goa,50.0,89.0,9.0,3
+40,Amona,Goa,18.0,55.0,6.0,1
+41,Assanora,Goa,16.0,71.0,5.0,1
+42,Honda,Goa,24.999999999999996,100.0,8.0,1
+43,Usgao,Goa,10.0,245.0,6.0,1
+44,Ahmedabad,Gujarat,21.0,95.0,15.000000000000002,1
+45,Anklesvar,Gujarat,24.0,77.0,16.0,1
+46,Jamnagar,Gujarat,26.999999999999996,104.00000000000001,12.000000000000002,1
+47,Rajkot,Gujarat,17.0,96.00000000000001,13.0,1
+48,Surat,Gujarat,24.0,76.0,16.0,1
+49,Vadodara,Gujarat,29.0,93.0,17.0,1
+50,Vapi,Gujarat,24.0,80.0,16.0,1
+51,Faridabad,Haryana,29.0,164.0,18.0,1
+52,Hissar,Haryana,8.0,95.0,8.0,1
+53,Yamunanagar,Haryana,26.0,261.0,12.000000000000002,2
+54,Baddi,HimachalPradesh,16.0,105.00000000000001,3.0,1
+55,Damtal,HimachalPradesh,11.0,68.0,2.0,1
+56,Kala Amb,HimachalPradesh,18.0,79.0,3.0,1
+57,Nalagarh,HimachalPradesh,18.0,85.99999999999999,3.0,1
+58,Parwanoo,HimachalPradesh,12.0,84.0,3.0,1
+59,Paonta Sahib,HimachalPradesh,17.0,135.0,3.0,1
+60,Shimla,HimachalPradesh,13.0,58.0,3.0,1
+61,Jammu,Jammu and Kashmir,15.0,115.00000000000001,7.0,1
+62,Dhanbad,Jharkhand,36.0,184.0,15.000000000000002,2
+63,Jamshedpur,Jharkhand,48.0,153.00000000000003,35.0,2
+64,Jharia,Jharkhand,38.0,237.0,17.0,2
+65,Ranchi,Jharkhand,35.0,171.99999999999997,19.0,2
+66,Saraikela Khar- sawan,Jharkhand,45.0,169.0,35.0,2
+67,Sindri,Jharkhand,37.0,174.0,16.0,2
+68,West Singhbhum,Jharkhand,31.999999999999996,302.0,21.0,2
+69,Bangalore,Karnataka,31.0,89.0,14.0,1
+70,Belgaum,Karnataka,15.0,33.0,2.0,1
+71,Gulburga,Karnataka,13.0,65.0,9.0,1
+72,Hassan,Karnataka,22.0,45.0,5.0,1
+73,Hubli-Dharwad,Karnataka,13.0,92.0,5.0,1
+74,Mangalore,Karnataka,8.0,48.00000000000001,6.0,1
+75,Mysore,Karnataka,27.999999999999993,44.0,10.0,1
+76,Alappuzha,Kerala,5.0,44.0,2.0,1
+77,Kochi,Kerala,17.0,61.0,4.0,1
+78,Kollam,Kerala,15.0,47.0,3.0,1
+79,Kottayam,Kerala,19.0,47.0,6.0,1
+80,Kozhikode,Kerala,9.0,42.0,2.0,1
+81,Malapuram,Kerala,5.0,30.0,2.0,1
+82,Palakkad,Kerala,6.0,32.0,3.0,1
+83,Pathanamthitta,Kerala,13.0,27.0,2.0,1
+84,Thissur,Kerala,7.0,31.0,2.0,1
+85,Wayanad,Kerala,12.0,46.0,2.0,1
+86,Trivandrum,Kerala,24.0,56.0,9.0,1
+87,Bhopal,MadhyaPradesh,18.0,133.00000000000003,9.0,1
+88,Dewas,MadhyaPradesh,18.0,85.0,12.000000000000002,1
+89,Gwalior,MadhyaPradesh,20.0,308.0,12.000000000000002,2
+90,Indore,MadhyaPradesh,18.0,120.0,14.0,1
+91,Jabalpur,MadhyaPradesh,24.999999999999996,135.0,2.0,1
+92,Nagda,MadhyaPradesh,24.0,95.0,19.0,1
+93,Sagar,MadhyaPradesh,17.0,66.0,4.0,1
+94,Satna,MadhyaPradesh,6.0,194.0,3.0,1
+95,Singrauli,MadhyaPradesh,19.0,59.0,15.000000000000002,1
+96,Ujjain,MadhyaPradesh,13.0,80.0,12.000000000000002,1
+97,Amravati,Maharashtra,14.0,118.0,12.000000000000002,1
+98,Aurangabad,Maharashtra,21.0,75.0,6.0,1
+99,Badlapur,Maharashtra,73.00000000000001,112.00000000000001,32.0,3
+100,Chandrapur,Maharashtra,26.0,152.0,26.0,2
+101,Jalgaon,Maharashtra,45.0,122.00000000000001,17.0,2
+102,Kolhapur,Maharashtra,22.0,83.0,15.000000000000002,1
+103,Latur,Maharashtra,16.0,106.00000000000001,8.0,1
+104,Lote,Maharashtra,29.999999999999996,119.0,60.00000000000001,2
+105,Pune,Maharashtra,39.0,82.0,29.0,1
+106,Mahad,Maharashtra,38.0,93.0,19.0,1
+107,Mumbai,Maharashtra,19.0,97.0,4.0,1
+108,Nagpur,Maharashtra,33.0,113.00000000000001,7.0,1
+109,Nashik,Maharashtra,26.0,76.0,21.0,1
+110,Navi Mumbai,Maharashtra,39.0,113.00000000000001,20.0,1
+111,Roha,Maharashtra,34.0,89.0,16.0,1
+112,Sangli,Maharashtra,26.999999999999996,62.0,14.0,1
+113,Solapur,Maharashtra,35.0,66.0,17.0,1
+114,Thane,Maharashtra,14.0,50.0,14.0,1
+115,Ulhasnagar,Maharashtra,68.0,106.00000000000001,30.999999999999996,3
+116,Byrnihat,Meghalaya,15.0,175.0,9.274450982110528,1
+117,Dawki,Meghalaya,6.0,71.0,2.0,1
+118,Shillong,Meghalaya,10.0,79.0,2.0,1
+119,Tura,Meghalaya,9.0,63.0,2.0,1
+120,Aizawl,Mizoram,6.0,42.0,2.0,1
+121,Dimapur,Nagaland,7.0,76.0,2.0,1
+122,Kohima,Nagaland,5.0,66.0,2.0,1
+123,Angul,Orissa,21.0,110.0,7.0,1
+124,Balasore,Orissa,12.0,73.0,2.0,1
+125,Berhampur,Orissa,13.0,58.0,2.0,1
+126,Bhubneshwar,Orissa,18.0,84.0,2.0,1
+127,Cuttack,Orissa,21.0,74.0,2.0,1
+128,Rayagada,Orissa,20.0,58.0,2.0,1
+129,Rourkela,Orissa,11.0,105.00000000000001,5.0,1
+130,Sambalpur,Orissa,15.0,50.0,3.0,1
+131,Talcher,Orissa,22.999999999999996,116.0,12.000000000000002,1
+132,Amritsar,Punjab,36.0,219.0,14.0,2
+133,Bhatinda,Punjab,21.0,216.0,9.0,2
+134,Dera Bassi,Punjab,22.999999999999996,162.0,10.0,1
+135,Pathankot/DeraBaba,Punjab,14.0,76.0,7.0,1
+136,Gobindgarh,Punjab,35.0,224.0,18.0,2
+137,Jalandar,Punjab,29.0,144.0,11.0,1
+138,Khanna,Punjab,31.0,230.99999999999997,9.0,2
+139,Ludhiana,Punjab,31.999999999999996,214.0,9.0,2
+140,Naya Nangal,Punjab,16.0,94.0,7.0,1
+141,Patiala,Punjab,20.0,143.00000000000003,7.0,1
+142,Puducherry,Puducherry,13.0,38.0,6.0,1
+143,Alwar,Rajasthan,24.0,225.0,8.0,2
+144,Jaipur,Rajasthan,37.0,164.0,6.0,2
+145,Jodhpur,Rajasthan,22.0,181.0,6.0,1
+146,Kota,Rajasthan,29.0,132.00000000000003,10.0,1
+147,Udaipur,Rajasthan,34.0,116.0,6.0,1
+148,Chennai,Tamilnadu,15.0,59.0,9.0,1
+149,Coimbatore,Tamilnadu,26.999999999999996,78.0,5.0,1
+150,Madurai,Tamilnadu,24.999999999999996,47.0,11.0,1
+151,Salem,Tamilnadu,26.0,85.0,8.0,1
+152,Tuticorin,Tamilnadu,12.0,119.0,12.000000000000002,1
+153,Agra,UttarPradesh,20.0,185.0,5.0,1
+154,Allahabad,UttarPradesh,24.0,218.0,4.0,2
+155,Anpara,UttarPradesh,27.999999999999993,128.0,17.0,1
+156,Ferozabad,UttarPradesh,33.0,214.0,16.0,2
+157,Gajraula,UttarPradesh,22.0,87.0,16.0,1
+158,Ghaziabad,UttarPradesh,37.0,290.0,30.000000000000004,2
+159,Jhansi,UttarPradesh,24.999999999999996,118.0,9.0,1
+160,Kanpur,UttarPradesh,34.0,203.0,7.0,2
+161,Khurja,UttarPradesh,26.999999999999996,173.0,29.0,2
+162,Lucknow,UttarPradesh,34.0,204.0,8.0,2
+163,Meerut,UttarPradesh,47.0,166.0,8.0,2
+164,Muradabad,UttarPradesh,21.0,195.0,11.0,1
+165,Noida,UttarPradesh,46.0,132.00000000000003,11.0,2
+166,Varanasi,UttarPradesh,20.0,127.0,18.0,1
+167,Dehradun,Uttarakhand,29.999999999999996,162.0,28.0,2
+168,Haldwani,Uttarakhand,32.63696990016036,196.0,13.518591245548235,2
+169,Haridwar,Uttarakhand,27.168547665793668,139.0,11.240544090956076,1
+170,Kashipur,Uttarakhand,18.24638507287959,46.0,7.523730312410973,1
+171,Rishikesh,Uttarakhand,34.171965615070306,212.00000000000003,14.158043078416208,2
+172,Asansol,West Bengal,66.0,141.0,8.0,3
+173,Barrackpore,West Bengal,74.0,121.00000000000003,12.000000000000002,3
+174,Durgapur,West Bengal,66.0,141.0,8.0,3
+175,Haldia,West Bengal,52.0,57.0,14.0,3
+176,Howrah,West Bengal,75.0,118.0,12.000000000000002,3
+177,Kolkata,West Bengal,62.0,99.0,11.0,3
+178,Raniganj,West Bengal,63.0,159.0,8.0,3
+179,Sankrail,West Bengal,65.0,100.0,10.0,3
+180,South Suburban,West Bengal,56.0,82.0,7.0,3
